@@ -85,6 +85,17 @@ h1 {
 }
 
 p {
-  font-family: verdana;
+  font-family: "Noto Sans", sans-serif;
   font-size: 20px;
+  color: rgb(255, 255, 255);
 }
+h3 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+}   
+h5 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+}   
